@@ -1,7 +1,7 @@
 from django.contrib import admin
-from .models import ParcelDetail, ReceiverDetail, SenderDetail
+from .models import ParcelDetails, ReceiverDetails, SenderDetails
 
 # Register your models here.
-admin.site.register(ParcelDetail)
-admin.site.register(ReceiverDetail)
-admin.site.register(SenderDetail)
+admin.site.register(ParcelDetails)
+admin.site.register(ReceiverDetails)
+admin.site.register(SenderDetails)

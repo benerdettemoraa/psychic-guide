@@ -1,14 +1,8 @@
-idea/dataSources.local.xml
-.idea/dataSources.xml
-.idea/dataSources/
-.idea/dataSources.local.xml
-.idea/workspace.xml
+.idea/*
+.idea/*.xml
+Sabina/__pycache__/*
 
-Sabina/__pycache__/urls.cpython-35.pyc
-Sabina/__pycache__/wsgi.cpython-35.pyc
-Sabina/__pycache__/settings.cpython-35.pyc
-
-Zigo/__pycache__/
+Zigo/__pycache__/*
 Zigo/migrations
 
 db.sqlite3
